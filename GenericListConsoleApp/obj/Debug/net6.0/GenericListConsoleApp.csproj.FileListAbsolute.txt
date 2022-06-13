@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\bin\Debug\net6.0\GenericListConsoleApp.exe
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\bin\Debug\net6.0\GenericListConsoleApp.deps.json
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\bin\Debug\net6.0\GenericListConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\bin\Debug\net6.0\GenericListConsoleApp.dll
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\bin\Debug\net6.0\GenericListConsoleApp.pdb
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.dll
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\refint\GenericListConsoleApp.dll
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.pdb
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\GenericListConsoleApp.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\GenericListConsoleApp\GenericListConsoleApp\obj\Debug\net6.0\ref\GenericListConsoleApp.dll
